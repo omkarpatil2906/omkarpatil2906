@@ -16,23 +16,11 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const omkar = {
-  name: "Omkar Patil",
-  role: "Frontend Developer",
-  experience: "1+ year (real-world)",
-  stack: ["React.js", "Node.js", "MongoDB", "MySQL"],
-  ui: ["Tailwind CSS", "MUI", "Bootstrap"],
-  domains: ["HRMS", "HIMS", "Campus Mgmt", "Booking Portals"],
-  learning: "Next.js 🚀",
-  openTo: ["Pune", "Bangalore"],
-  contact: "ompatil2906@gmail.com"
-};
-```
-
-- ⚛️ Specializing in **React.js**, **Tailwind CSS**, **MUI**, and **REST API Integrations**  
-- 🧠 Experienced across **Healthcare**, **HR**, **Campus** & **E-commerce** domains  
-- 🤝 Open to **on-site / hybrid** roles in Pune or Bangalore  
+- 👨‍💻 Frontend Developer with **1+ year of real-world experience**
+- ⚛️ Specializing in **React.js**, **Tailwind CSS**, **MUI**, and **REST API Integrations**
+- 🧠 Experienced across **HRMS, HIMS, Campus Management & Booking Portals**
+- 🌱 Currently learning **Next.js**
+- 🤝 Open to opportunities in **Pune / Bangalore**
 - 📩 **ompatil2906@gmail.com**
 
 <br clear="right"/>
@@ -148,12 +136,6 @@ const omkar = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarpatil2906&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarpatil2906&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
