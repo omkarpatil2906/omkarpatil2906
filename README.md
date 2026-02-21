@@ -1,108 +1,181 @@
-![MasterHead](https://i.pinimg.com/originals/2a/31/fd/2a31fd31c567d79caf95c1c2325bdcd1.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Omkar Patil</h1>
-<h3 align="center">Frontend Developer | React.js | Node.js | MERN Stack</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omkar%20Patil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20MERN%20Stack&descAlignY=55&descSize=16" width="100%"/>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=React.js+Developer+%E2%9A%9B%EF%B8%8F;MERN+Stack+Engineer+%F0%9F%94%A5;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+Real-World+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 Frontend Developer with **1+ year of real-world experience**
-- ⚛️ Specializing in **React.js**, **Tailwind CSS**, **MUI**, and **API Integrations**
-- 🌱 Currently learning **Next.js**
-- 🧠 Experienced with **HRMS, HIMS, Campus Management, and Booking Portals**
-- 🤝 Open for **Pune / Bangalore** opportunities
-- 📩 Reach me at: **ompatil2906@gmail.com**
+<img align="right" alt="Developer at Work" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## 🧑‍💻 About Me
+
+```javascript
+const omkar = {
+  name: "Omkar Patil",
+  role: "Frontend Developer",
+  experience: "1+ year (real-world)",
+  stack: ["React.js", "Node.js", "MongoDB", "MySQL"],
+  ui: ["Tailwind CSS", "MUI", "Bootstrap"],
+  domains: ["HRMS", "HIMS", "Campus Mgmt", "Booking Portals"],
+  learning: "Next.js 🚀",
+  openTo: ["Pune", "Bangalore"],
+  contact: "ompatil2906@gmail.com"
+};
+```
+
+- ⚛️ Specializing in **React.js**, **Tailwind CSS**, **MUI**, and **REST API Integrations**  
+- 🧠 Experienced across **Healthcare**, **HR**, **Campus** & **E-commerce** domains  
+- 🤝 Open to **on-site / hybrid** roles in Pune or Bangalore  
+- 📩 **ompatil2906@gmail.com**
+
+<br clear="right"/>
 
 ---
 
 ## 💼 Professional Experience
 
-### **React Developer — AppyStack Pvt. Ltd.**  
-📆 *April 2024 – June 2025*  
-💼 Built end-to-end modules for real-world systems:
+<div align="center">
 
-#### 🔹 HRMS  
-- Built **Master KRA**, **Appraisal Templates**, and **Employee Registration**
-- Boosted HR operational efficiency by **40%**
-- Used **React.js + MUI + React Hook Form**
+### 🏢 React Developer — AppyStack Pvt. Ltd.
+**April 2024 – June 2025**
 
-#### 🔹 Campus Management System  
-- Created **Fleet Management**, **Driver/Vehicle Registration**, **Route Scheduling**
-- Automated manual processes → **50% reduction in workload**
+</div>
 
-#### 🔹 HIMS (Healthcare)  
-- Developed **OPD EMR module**
-- Implemented **SQL + React** updates directly from client feedback
-- Delivered real-time enhancements improving hospital operations  
+| Module | What I Built | Impact |
+|--------|-------------|--------|
+| 🟦 **HRMS** | Master KRA, Appraisal Templates, Employee Registration | ⬆️ 40% HR efficiency |
+| 🟩 **Campus Management** | Fleet Mgmt, Driver/Vehicle Registration, Route Scheduling | ⬇️ 50% manual workload |
+| 🟥 **HIMS (Healthcare)** | OPD EMR Module, real-time client-feedback SQL updates | 🏥 Improved hospital ops |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-`React.js` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `MUI` • `React Hook Form`
+<div align="center">
 
-### **Backend & Database**
-`Node.js` • `Express.js` • `SQL` • `MongoDB` • `MySQL`
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Tools**
-`Git` • `GitHub` • `VS Code` • `Chrome DevTools`
+### 🖥️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 **Fusion Photo Films – Photography Portfolio**  
-📸 Category-based image gallery with LightGallery  
-🛠 Tech: React.js, Tailwind, Node.js, MongoDB  
-🔗 **Live:** https://fusionphotofilms.com/
+<table>
+<tr>
+<td width="50%">
+
+### 📸 Fusion Photo Films
+> Photography Portfolio with category-based gallery
+
+- 🖼️ LightGallery integration for smooth UX
+- 🛠 React.js · Tailwind · Node.js · MongoDB
+- 🔗 [fusionphotofilms.com](https://fusionphotofilms.com/)
+
+</td>
+<td width="50%">
+
+### 🛒 SellerList – E-commerce Platform
+> Full-featured e-commerce with auth & seller tools
+
+- 📦 50+ products · filtering · seller management
+- ⚡ Boosted conversion rate by **25%**
+- 🛠 React.js · Tailwind · Node.js · MongoDB
+- 🔗 [sellerlist02.netlify.app](https://sellerlist02.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏨 Resort Management System
+> Smart booking, guest check-in/out & payment alerts
+
+- 🔧 Dynamic forms + SQL stored procedures
+- 🛠 React.js · Tailwind · Node.js · Express · MySQL
+
+</td>
+<td width="50%">
+
+### 🧑‍💼 Personal Portfolio
+> Modern UI with Dark/Light Mode & animations
+
+- 🎨 Smooth transitions & project showcase
+- 🛠 React.js · Tailwind CSS
+- 🔗 [View Portfolio](https://omakarpatil7975789854.netlify.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧑‍💼 **Personal Portfolio Website**  
-🎨 Modern UI with Dark/Light Mode, animations & project showcase  
-🛠 Tech: React.js, Tailwind  
-🔗 **Live:** https://omakarpatil7975789854.netlify.app/
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-### 🛒 **SellerList – E-commerce Platform**  
-🛍 50+ products, filtering, authentication, seller management  
-⚡ Improved conversion rate by **25%**  
-🛠 Tech: React.js, Tailwind, Node.js, MongoDB  
-🔗 **Live:** https://sellerlist02.netlify.app/
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarpatil2906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarpatil2906&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
----
+</div>
 
-### 🏨 **Resort Management System**  
-🏠 Smart room allocation, booking system, guest check-in/out, pending payment alerts  
-🔧 Built dynamic forms + SQL stored procedures  
-🛠 Tech: React.js, Tailwind, Node.js, Express, MySQL
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarpatil2906&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarpatil2906&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/omkar-patil-b744752a9/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://github.com/omkarpatil2906" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
-</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-patil-b744752a9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarpatil2906)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://omakarpatil7975789854.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ompatil2906@gmail.com)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarpatil2906&show_icons=true&layout=compact" />
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=omkarpatil2906&show_icons=true" />
-</p>
+<div align="center">
 
-<br/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarpatil2906" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=omkarpatil2906&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
