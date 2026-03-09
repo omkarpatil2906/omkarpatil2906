@@ -95,7 +95,7 @@
 - 📦 50+ products · filtering · seller management
 - ⚡ Boosted conversion rate by **25%**
 - 🛠 React.js · Tailwind · Node.js · MongoDB
-- 🔗 [sellerlist02.netlify.app](https://sellerlist02.netlify.app/)
+
 
 </td>
 </tr>
@@ -116,7 +116,7 @@
 
 - 🎨 Smooth transitions & project showcase
 - 🛠 React.js · Tailwind CSS
-- 🔗 [View Portfolio](https://omakarpatil7975789854.netlify.app/)
+
 
 </td>
 </tr>
